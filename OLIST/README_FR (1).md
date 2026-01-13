@@ -1,7 +1,4 @@
 # Olist:Du Constat Alarmant aux Solutions Data-Driven
-## 🌍 Langues disponibles
-- 🇬🇧 [English version](README_EN.md)
-- 🇫🇷 Français (ce fichier)
 
 ## 📊 Introduction
 
