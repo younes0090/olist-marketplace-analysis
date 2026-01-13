@@ -1,7 +1,4 @@
 # Olist: From Alarming Findings to Data-Driven Solutions
-## 🌍 Available Languages
-- 🇬🇧 English (this file)
-- 🇫🇷 [Version française](README_FR.md)
 
 ## 📊 Introduction
 
@@ -419,5 +416,6 @@ customer satisfaction
 product quality
 
 logistics performance
+
 
 revenue and operational efficiency
